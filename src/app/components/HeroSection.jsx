@@ -15,9 +15,14 @@ const HeroSection = () => {
                 <br></br>
                 <TypeAnimation
                     sequence={[
-                        // Same substring at the start will only be typed out once, initially
                         'React Developer',
-                        1000, // wait 1s before replacing "Mice" with "Hamsters"
+                        1000,
+                        'Ethical Hacker',
+                        1000,
+                        'Body Builder',
+                        1000,
+                        'Sketch Artist',
+                        1000
                     ]}
                     wrapper="span"
                     speed={50}
