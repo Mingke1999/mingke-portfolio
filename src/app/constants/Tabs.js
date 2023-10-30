@@ -4,11 +4,8 @@ export const SKILL_TABS = [
         id:"Skills",
         content:(
             <ul className='list-disc pl-2'>
-                <li>Node.js</li>
-                <li>React</li>
-                <li>Vue</li>
-                <li>Django</li>
-                <li>MySQL</li>
+                <li>ReactJS</li>
+                <li>Tailwind</li>
             </ul>
         )
     },
@@ -26,8 +23,7 @@ export const SKILL_TABS = [
         id:"Certification",
         content:(
             <ul className='list-disc pl-2'>
-                <li>CCNA</li>
-                <li>CompTIA A+</li>
+                <li>CompTIA Security+</li>
             </ul>
         )
     },

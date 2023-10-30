@@ -19,12 +19,9 @@ const AboutSection = () => {
             <div className='mt-4 mdLmt-0 text-left flex flex-col h-full'>
                 <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
                 <p className='text-base md:text-lg'>
-                    Lorem ipsum dolor sit amet consectetur
-                    adipisicing elit. Quasi impedit repellendus
-                    consequatur maxime enim laudantium? 
-                    Ex sint unde animi quae illo? Distinctio 
-                    adipisci quam quasi iusto quisquam voluptas 
-                    atque cumque.
+                I hold a degree from UTAS with a major in cybersecurity, which has equipped me with a deep understanding of operating systems and core principles of cybersecurity. 
+                I have hands-on experience in various cybersecurity tools and labs, including Kali Linux, Metasploit, and FTK for digital forensics.
+                As for web development, I specialize in the ReactJS framework and have completed projects with a strong focus on integrating the Tailwind CSS framework.
                 </p>
             </div>
             <div className='flex flex-row mt-8'>
